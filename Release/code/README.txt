@@ -34,7 +34,7 @@ usage: feature_drop.py [-h] -f data [-s data]
 Feature Dropper
 
 optional arguments:
-  -h, --help            show this help message and exit
+  -h, --help           show this help message and exit
   -f data, --file data  Full path to CSV to drop features from
   -s data, --save data  Full path and file name to save the data to
 
