@@ -1,0 +1,181 @@
+,model,target,measure,value
+0,NBM,pass,precision,0.6537576232172944
+1,NBM,pass,recall,0.8502823986913984
+2,NBM,pass,f1-score,0.739180596173969
+3,NBM,accuracy,accuracy,0.6787213114754098
+4,NBM,pass,support,32401.0
+5,NBM,run,precision,0.6903141197776806
+6,NBM,run,recall,0.48342517274556107
+7,NBM,run,f1-score,0.5686360245891098
+8,NBM,accuracy,accuracy,0.6787213114754098
+9,NBM,run,support,22866.0
+10,NBM,punt,precision,0.9864672364672364
+11,NBM,punt,recall,0.3424826904055391
+12,NBM,punt,f1-score,0.5084434654919237
+13,NBM,accuracy,accuracy,0.6787213114754098
+14,NBM,punt,support,4044.0
+15,NBM,field_goal,precision,0.9798890429958391
+16,NBM,field_goal,recall,0.8365896980461812
+17,NBM,field_goal,f1-score,0.9025870328968382
+18,NBM,accuracy,accuracy,0.6787213114754098
+19,NBM,field_goal,support,1689.0
+20,NBM,macro avg,precision,0.8276070056145126
+21,NBM,macro avg,recall,0.6281949899721699
+22,NBM,macro avg,f1-score,0.6797117797879602
+23,NBM,accuracy,accuracy,0.6787213114754098
+24,NBM,macro avg,support,61000.0
+25,NBM,weighted avg,precision,0.6985480247638275
+26,NBM,weighted avg,recall,0.6787213114754098
+27,NBM,weighted avg,f1-score,0.6644792902934336
+28,NBM,accuracy,accuracy,0.6787213114754098
+29,NBM,weighted avg,support,61000.0
+0,GNB,pass,precision,0.995394888326042
+1,GNB,pass,recall,0.933952655782229
+2,GNB,pass,f1-score,0.9636954237126207
+3,GNB,accuracy,accuracy,0.9594590163934427
+4,GNB,pass,support,32401.0
+5,GNB,run,precision,0.9131455399061033
+6,GNB,run,recall,0.9867051517536954
+7,GNB,run,f1-score,0.9485012822129735
+8,GNB,accuracy,accuracy,0.9594590163934427
+9,GNB,run,support,22866.0
+10,GNB,punt,precision,0.957163255592575
+11,GNB,punt,recall,0.9945598417408507
+12,GNB,punt,f1-score,0.9755032743148193
+13,GNB,accuracy,accuracy,0.9594590163934427
+14,GNB,punt,support,4044.0
+15,GNB,field_goal,precision,0.9958555358200119
+16,GNB,field_goal,recall,0.9958555358200119
+17,GNB,field_goal,f1-score,0.9958555358200119
+18,GNB,accuracy,accuracy,0.9594590163934427
+19,GNB,field_goal,support,1689.0
+20,GNB,macro avg,precision,0.9653898049111831
+21,GNB,macro avg,recall,0.9777682962741967
+22,GNB,macro avg,f1-score,0.9708888790151065
+23,GNB,accuracy,accuracy,0.9594590163934427
+24,GNB,macro avg,support,61000.0
+25,GNB,weighted avg,precision,0.9620417032419905
+26,GNB,weighted avg,recall,0.9594590163934427
+27,GNB,weighted avg,f1-score,0.9596731308872721
+28,GNB,accuracy,accuracy,0.9594590163934427
+29,GNB,weighted avg,support,61000.0
+0,LRM,pass,precision,0.9210237141540534
+1,LRM,pass,recall,0.80191969383661
+2,LRM,pass,f1-score,0.8573549792120372
+3,LRM,accuracy,accuracy,0.8555573770491803
+4,LRM,pass,support,32401.0
+5,LRM,run,precision,0.7626922933661117
+6,LRM,run,recall,0.8954780022741188
+7,LRM,run,f1-score,0.8237684307927504
+8,LRM,accuracy,accuracy,0.8555573770491803
+9,LRM,run,support,22866.0
+10,LRM,punt,precision,0.9533018867924529
+11,LRM,punt,recall,0.9995054401582592
+12,LRM,punt,f1-score,0.975857073877354
+13,LRM,accuracy,accuracy,0.8555573770491803
+14,LRM,punt,support,4044.0
+15,LRM,field_goal,precision,0.9917743830787309
+16,LRM,field_goal,recall,0.9994079336885732
+17,LRM,field_goal,f1-score,0.9955765260984959
+18,LRM,accuracy,accuracy,0.8555573770491803
+19,LRM,field_goal,support,1689.0
+20,LRM,macro avg,precision,0.9071980693478372
+21,LRM,macro avg,recall,0.9240777674893903
+22,LRM,macro avg,f1-score,0.9131392524951594
+23,LRM,accuracy,accuracy,0.8555573770491803
+24,LRM,macro avg,support,61000.0
+25,LRM,weighted avg,precision,0.8657716574692401
+26,LRM,weighted avg,recall,0.8555573770491803
+27,LRM,weighted avg,f1-score,0.8564482357261742
+28,LRM,accuracy,accuracy,0.8555573770491803
+29,LRM,weighted avg,support,61000.0
+0,SVC,pass,precision,0.8964389534883721
+1,SVC,pass,recall,0.8375358785222679
+2,SVC,pass,f1-score,0.8659869481275829
+3,SVC,accuracy,accuracy,0.8598360655737705
+4,SVC,pass,support,32401.0
+5,SVC,run,precision,0.7888101184242327
+6,SVC,run,recall,0.8564243855505992
+7,SVC,run,f1-score,0.8212278788895412
+8,SVC,accuracy,accuracy,0.8598360655737705
+9,SVC,run,support,22866.0
+10,SVC,punt,precision,0.9603231171299597
+11,SVC,punt,recall,0.9995054401582592
+12,SVC,punt,f1-score,0.9795225978432086
+13,SVC,accuracy,accuracy,0.8598360655737705
+14,SVC,punt,support,4044.0
+15,SVC,field_goal,precision,0.9970466627288836
+16,SVC,field_goal,recall,0.9994079336885732
+17,SVC,field_goal,f1-score,0.9982259018332348
+18,SVC,accuracy,accuracy,0.8598360655737705
+19,SVC,field_goal,support,1689.0
+20,SVC,macro avg,precision,0.9106547129428619
+21,SVC,macro avg,recall,0.9232184094799248
+22,SVC,macro avg,f1-score,0.9162408316733919
+23,SVC,accuracy,accuracy,0.8598360655737705
+24,SVC,macro avg,support,61000.0
+25,SVC,weighted avg,precision,0.8631149048998015
+26,SVC,weighted avg,recall,0.8598360655737705
+27,SVC,weighted avg,f1-score,0.8603972576859726
+28,SVC,accuracy,accuracy,0.8598360655737705
+29,SVC,weighted avg,support,61000.0
+0,DT,pass,precision,0.9741660011058549
+1,DT,pass,recall,0.9787660874664362
+2,DT,pass,f1-score,0.9764606265876377
+3,DT,accuracy,accuracy,0.9741967213114754
+4,DT,pass,support,32401.0
+5,DT,run,precision,0.969121663289578
+6,DT,run,recall,0.9621709087728505
+7,DT,run,f1-score,0.9656337780898877
+8,DT,accuracy,accuracy,0.9741967213114754
+9,DT,run,support,22866.0
+10,DT,punt,precision,0.9928430404738401
+11,DT,punt,recall,0.994807121661721
+12,DT,punt,f1-score,0.9938241106719368
+13,DT,accuracy,accuracy,0.9741967213114754
+14,DT,punt,support,4044.0
+15,DT,field_goal,precision,0.99822695035461
+16,DT,field_goal,recall,1.0
+17,DT,field_goal,f1-score,0.9991126885536824
+18,DT,accuracy,accuracy,0.9741967213114754
+19,DT,field_goal,support,1689.0
+20,DT,macro avg,precision,0.9835894138059708
+21,DT,macro avg,recall,0.9839360294752519
+22,DT,macro avg,f1-score,0.983757800975786
+23,DT,accuracy,accuracy,0.9741967213114754
+24,DT,macro avg,support,61000.0
+25,DT,weighted avg,precision,0.9741795267120564
+26,DT,weighted avg,recall,0.9741967213114754
+27,DT,weighted avg,f1-score,0.9741804715802278
+28,DT,accuracy,accuracy,0.9741967213114754
+29,DT,weighted avg,support,61000.0
+0,KNN,pass,precision,0.7064820931100836
+1,KNN,pass,recall,0.7592049628097898
+2,KNN,pass,f1-score,0.7318952692650996
+3,KNN,accuracy,accuracy,0.6942295081967214
+4,KNN,pass,support,32401.0
+5,KNN,run,precision,0.6089888722963533
+6,KNN,run,recall,0.5528732616111257
+7,KNN,run,f1-score,0.5795759312320917
+8,KNN,accuracy,accuracy,0.6942295081967214
+9,KNN,run,support,22866.0
+10,KNN,punt,precision,0.9295019157088122
+11,KNN,punt,recall,0.8998516320474778
+12,KNN,punt,f1-score,0.9144364869958539
+13,KNN,accuracy,accuracy,0.6942295081967214
+14,KNN,punt,support,4044.0
+15,KNN,field_goal,precision,0.9741207697412076
+16,KNN,field_goal,recall,0.8691533451746596
+17,KNN,field_goal,f1-score,0.918648310387985
+18,KNN,accuracy,accuracy,0.6942295081967214
+19,KNN,field_goal,support,1689.0
+20,KNN,macro avg,precision,0.8047734127141142
+21,KNN,macro avg,recall,0.7702708004107632
+22,KNN,macro avg,f1-score,0.7861389994702574
+23,KNN,accuracy,accuracy,0.6942295081967214
+24,KNN,macro avg,support,61000.0
+25,KNN,weighted avg,precision,0.6921321570493045
+26,KNN,weighted avg,recall,0.6942295081967214
+27,KNN,weighted avg,f1-score,0.6920704920109515
+28,KNN,accuracy,accuracy,0.6942295081967214
+29,KNN,weighted avg,support,61000.0
