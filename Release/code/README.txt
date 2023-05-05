@@ -21,7 +21,7 @@ The following modules are needed:
 
 ## Instructions
 
-Please note that all data has been downloaded and is included in the data directory except for the large Kaggle dataset (https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016?select=NFL+Play+by+Play+2009-2018+%28v5%29.csv). This can be downloaded at the Kaggle site provided or from the Google Drive URL (https://drive.google.com/drive/folders/1Mx_UF70648vu00ijWhughAJpPKC7WxYc?usp=sharing)
+Please note that all data has been downloaded and is included in the data directory except for the large Kaggle dataset (https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016?select=NFL+Play+by+Play+2009-2018+%28v5%29.csv). This can be downloaded at the Kaggle site provided or from the Google Drive URL (Add URL)
 
 To generate the full dataset file, you need to ensure the Kaggle file is in the data folder and renamed to nfl_play_by_play09-18.csv.
 
